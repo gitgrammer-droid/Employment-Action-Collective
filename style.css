@@ -386,7 +386,7 @@ a {
     width: 100%;
     background-image:
         linear-gradient(rgba(0, 132, 255, 0.451), rgba(0, 0, 0, 0.479)),
-        url(/images/unemployment.jpg);
+        url(images/unemployment.jpg);
     background-size: cover;
     background-position: center;
     filter: brightness(70%);/* for Darkening image for contrast */
